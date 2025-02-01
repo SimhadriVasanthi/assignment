@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SimhadriVasanthi/assignment/static/css/main.f855e6bc.css",
+    "main.js": "/SimhadriVasanthi/assignment/static/js/main.8a5d45af.js",
+    "static/js/488.75f1601f.chunk.js": "/SimhadriVasanthi/assignment/static/js/488.75f1601f.chunk.js",
+    "static/media/breath.png": "/SimhadriVasanthi/assignment/static/media/breath.75cc718e0745f10d3e67.png",
+    "static/media/mike.png": "/SimhadriVasanthi/assignment/static/media/mike.5d0ebe5bf163a026efdc.png",
+    "static/media/monitor.png": "/SimhadriVasanthi/assignment/static/media/monitor.50911c43f4d0908aa788.png",
+    "static/media/breathing.png": "/SimhadriVasanthi/assignment/static/media/breathing.2db37ac52abec608f956.png",
+    "static/media/yoga.png": "/SimhadriVasanthi/assignment/static/media/yoga.2e3cdd6d459d763834af.png",
+    "static/media/health.png": "/SimhadriVasanthi/assignment/static/media/health.c910124085847aae208c.png",
+    "static/media/tailored.png": "/SimhadriVasanthi/assignment/static/media/tailored.0f23c3eeb9accccff4de.png",
+    "static/media/focus.png": "/SimhadriVasanthi/assignment/static/media/focus.a54b5d02723545039c7b.png",
+    "static/media/performance.png": "/SimhadriVasanthi/assignment/static/media/performance.3cbd932ffe6c87c9efa0.png",
+    "static/media/airway.png": "/SimhadriVasanthi/assignment/static/media/airway.055617645328b9e4d074.png",
+    "index.html": "/SimhadriVasanthi/assignment/index.html",
+    "main.f855e6bc.css.map": "/SimhadriVasanthi/assignment/static/css/main.f855e6bc.css.map",
+    "main.8a5d45af.js.map": "/SimhadriVasanthi/assignment/static/js/main.8a5d45af.js.map",
+    "488.75f1601f.chunk.js.map": "/SimhadriVasanthi/assignment/static/js/488.75f1601f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8a5d45af.js"
+  ]
+}
